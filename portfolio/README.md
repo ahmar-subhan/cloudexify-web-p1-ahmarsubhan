@@ -2,7 +2,7 @@
 ## Project Report — CloudExify Summer Internship 2026
 
 **Submitted By:** Ahmar Subhan
-**Registration Number:** CX-INT-2026-GEN-0154
+**Registration Number:** CX-INT-2026-GEN-0166
 **Technology Stack:** HTML5, CSS3, JavaScript (Vanilla JS)
 **Project Type:** Frontend Responsive Portfolio Website
 **Development Environment:** Visual Studio Code, Google Chrome, Git & GitHub
@@ -372,6 +372,6 @@ https://docs.github.com/
 
 **Project Title:** Personal Portfolio Website
 **Developed By:** Ahmar Subhan
-**Registration Number:** CX-INT-2026-GEN-0154
+**Registration Number:** CX-INT-2026-GEN-0166
 **Technology Stack:** HTML5, CSS3, JavaScript (Vanilla JS)
 **Internship:** CloudExify Summer Internship 2026
